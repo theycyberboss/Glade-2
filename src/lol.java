@@ -8,11 +8,6 @@
  *
  * @author theycyberboss
  */
-public class TEst {
-    
-    public TEst()
-    {
-        
-    }
+public class lol {
     
 }
